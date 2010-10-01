@@ -1,0 +1,17 @@
+Extension opAudioPlayer for eZ publish
+====================================
+
+Goal:
+-----
+
+- Embed Flash audio Players like SoundManager 2 your eZ Publish web pages
+
+Requirements:
+-------------
+
+- eZ Publish 4.x or later
+
+Installation and Troubleshooting:
+---------------------------------
+
+- Find more information in INSTALL file at the root of this extension
