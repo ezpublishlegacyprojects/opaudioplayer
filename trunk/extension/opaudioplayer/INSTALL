@@ -14,10 +14,10 @@ Installing the extension
 4. Enable the extension in eZ publish.
    Regenerate the extensions autoloads config if enabling the extension by hand.
 5. Clear the caches for the administration interface
-6. Install AudioPlayer package
+6. Install AudioPlayer package located in folder opAudioPlayer/packages/audio_flash_player-1.0-1.ezpkg
 7. Configure File attribute in the Audio/Flash Player content class (Setup > Classes > Medias > Audio/Flash Player)
-   to set-up the default Audio Player
-8. Create an Audio Player content and pickup the vue of the audio player in the File options.
+   to set-up the default Audio Player (SoundManager2, WPAudioPlayer, DewPlayer ...)
+8. Create an Audio Player content object and pickup the view of the audio player in the File options.
 9. Have fun !!!
 
 

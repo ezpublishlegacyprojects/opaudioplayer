@@ -3,8 +3,26 @@ Extension opAudioPlayer for eZ publish
 
 Goal:
 -----
+This extension is a flexible audio datatype that displays any type of Flash/Javascript MP3/Audio players.
+It also include an out of the box Audio/Flash Player content class in an ezpkg archive.
 
-- Embed Flash audio Players like SoundManager 2 your eZ Publish web pages
+The extension includes:
+
+    * eZAudio DataType
+    * Audio/Flash Player content Class
+    * Audio/Flash Player full and embed view
+    * Flexible integration of any Flash player.
+
+Supported audio players are:
+
+    * SoundManager 2
+    * DewPlayer
+    * Word Press Audio Player
+    * Yahoo Media Player
+
+and this audio datatype can be easily upgraded with other plugins.
+
+
 
 Requirements:
 -------------
