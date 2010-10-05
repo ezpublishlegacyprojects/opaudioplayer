@@ -19,6 +19,7 @@ Supported audio players are:
     * DewPlayer
     * Word Press Audio Player
     * Yahoo Media Player
+    * Google Reader Player
 
 and this audio datatype can be easily upgraded with other plugins.
 

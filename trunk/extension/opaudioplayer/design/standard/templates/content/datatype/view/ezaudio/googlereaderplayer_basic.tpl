@@ -1,0 +1,1 @@
+<embed type="application/x-shockwave-flash" wmode="transparent" src="{$plugin_path}{concat("content/download/",$attribute.contentobject_id,"/",$attribute.content.contentobject_attribute_id,"/",$attribute.content.original_filename)|url_encode()|ezurl(no)}" height="27" width="320"></embed>
